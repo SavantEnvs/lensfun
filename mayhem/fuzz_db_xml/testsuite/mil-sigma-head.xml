@@ -1,0 +1,214 @@
+<!DOCTYPE lensdatabase SYSTEM "lensfun-database.dtd">
+<lensdatabase version="2">
+
+    <camera>
+        <maker>Sigma</maker>
+        <model>Sigma BF</model>
+        <model lang="en">BF</model>
+        <mount>Leica L</mount>
+        <cropfactor>1</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Sigma</maker>
+        <model>Sigma fp</model>
+        <model lang="en">fp</model>
+        <mount>Leica L</mount>
+        <cropfactor>1</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Sigma</maker>
+        <model>Sigma fp L</model>
+        <model lang="en">fp L</model>
+        <mount>Leica L</mount>
+        <cropfactor>1</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Sigma</maker>
+        <model>Sigma FP2</model>
+        <model lang="en">FP2</model>
+        <mount>Leica L</mount>
+        <cropfactor>1</cropfactor>
+    </camera>
+
+	<camera>
+        <maker>Sigma</maker>
+        <model>sd Quattro</model>
+        <mount>Sigma SA</mount>
+        <cropfactor>1.523</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Sigma</maker>
+        <model>sd Quattro H</model>
+        <mount>Sigma SA</mount>
+        <cropfactor>1.346</cropfactor>
+    </camera>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>E 30mm f/2.8</model>
+        <model lang="en">Sigma 30mm f/2.8 EX DN</model>
+        <mount>Sony E</mount>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>1.534</cropfactor>
+        <calibration>
+            <!-- Taken with NEX-C3 -->
+            <distortion model="poly3" focal="30" k1="-0.00329"/>
+            <tca model="poly3" focal="30" br="-0.0000696" vr="1.0003379" bb="0.0001188" vb="0.9998102"/>
+            <vignetting model="pa" focal="30" aperture="2.8" distance="10" k1="-0.7946" k2="0.5729" k3="-0.1713"/>
+            <vignetting model="pa" focal="30" aperture="2.8" distance="1000" k1="-0.7946" k2="0.5729" k3="-0.1713"/>
+            <vignetting model="pa" focal="30" aperture="4" distance="10" k1="-0.3097" k2="-0.3089" k3="0.2307"/>
+            <vignetting model="pa" focal="30" aperture="4" distance="1000" k1="-0.3097" k2="-0.3089" k3="0.2307"/>
+            <vignetting model="pa" focal="30" aperture="5.6" distance="10" k1="-0.6172" k2="0.5891" k3="-0.2868"/>
+            <vignetting model="pa" focal="30" aperture="5.6" distance="1000" k1="-0.6172" k2="0.5891" k3="-0.2868"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 30mm f/2.8 EX DN</model>
+        <mount>Sony E</mount>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2</cropfactor>
+        <aspect-ratio>4:3</aspect-ratio>
+        <calibration>
+            <!-- Taken with OMD E-M5 -->
+            <distortion model="poly3" focal="30" k1="-0.00454"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 19mm f/2.8 EX DN</model>
+        <mount>Sony E</mount>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2</cropfactor>
+        <aspect-ratio>4:3</aspect-ratio>
+        <calibration>
+            <!-- Taken with OMD E-M5 -->
+            <distortion model="ptlens" focal="19" a="0.00475" b="-0.01706" c="0.00298"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 19mm f/2.8 EX DN</model>
+        <mount>Sony E</mount>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>1.534</cropfactor>
+        <calibration>
+            <!-- Taken with Sony A6000 -->
+            <distortion model="ptlens" focal="19" a="0.02766" b="-0.0877" c="0.06882"/>
+            <tca model="poly3" focal="19" br="-0.0000466" vr="1.0003817" bb="0.0000346" vb="1.0000194"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 56mm F1.4 DC DN | C 018</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <!-- Taken with DMC-G81 -->
+            <distortion model="ptlens" focal="56.0" a="-0.002" b="0.017" c="-0.005"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 56mm F1.4 DC DN | Contemporary 018</model>
+        <model lang="en">Sigma 56 mm F1.4 DC DN | C 018</model>
+        <mount>Sony E</mount>
+        <mount>Fujifilm X</mount>
+        <mount>Leica L</mount>
+        <mount>Canon EF-M</mount>
+        <mount>Nikon Z</mount>
+        <cropfactor>1.534</cropfactor>
+        <calibration>
+            <!-- Taken with Sony ILCE-6500 -->
+            <distortion model="ptlens" focal="56.0" a="0.012824" b="-0.02162" c="0.033466"/>
+            <tca model="poly3" focal="56.0" vr="1.0000748" vb="1.0000989"/>
+            <vignetting model="pa" focal="56.0" aperture="1.4" distance="0.5" k1="-0.7617915" k2="-0.2842566" k3="0.3517673"/>
+            <vignetting model="pa" focal="56.0" aperture="1.4" distance="1.0" k1="-1.2599018" k2="0.6688509" k3="-0.1574066"/>
+            <vignetting model="pa" focal="56.0" aperture="1.4" distance="3.0" k1="-1.4304379" k2="1.0297080" k3="-0.3609099"/>
+            <vignetting model="pa" focal="56.0" aperture="1.4" distance="1000" k1="-1.5310806" k2="1.2353243" k3="-0.4740154"/>
+            <vignetting model="pa" focal="56.0" aperture="2.0" distance="0.5" k1="-0.4545413" k2="-0.0555093" k3="-0.0582896"/>
+            <vignetting model="pa" focal="56.0" aperture="2.0" distance="1.0" k1="-0.1751893" k2="-0.8499541" k3="0.4167819"/>
+            <vignetting model="pa" focal="56.0" aperture="2.0" distance="3.0" k1="-0.1051689" k2="-1.1044908" k3="0.5964616"/>
+            <vignetting model="pa" focal="56.0" aperture="2.0" distance="1000" k1="-0.0850261" k2="-1.2336482" k3="0.7029672"/>
+            <vignetting model="pa" focal="56.0" aperture="2.8" distance="0.5" k1="-0.5476358" k2="0.1865556" k3="-0.1089188"/>
+            <vignetting model="pa" focal="56.0" aperture="2.8" distance="1.0" k1="-0.4632029" k2="0.2794120" k3="-0.3442801"/>
+            <vignetting model="pa" focal="56.0" aperture="2.8" distance="3.0" k1="-0.3849199" k2="0.1365138" k3="-0.2983158"/>
+            <vignetting model="pa" focal="56.0" aperture="2.8" distance="1000" k1="-0.3152439" k2="-0.0197118" k3="-0.2179661"/>
+            <vignetting model="pa" focal="56.0" aperture="4.0" distance="0.5" k1="-0.5142415" k2="0.0504497" k3="0.0163124"/>
+            <vignetting model="pa" focal="56.0" aperture="4.0" distance="1.0" k1="-0.4879529" k2="0.2565874" k3="-0.1991817"/>
+            <vignetting model="pa" focal="56.0" aperture="4.0" distance="3.0" k1="-0.4959135" k2="0.4156037" k3="-0.3667059"/>
+            <vignetting model="pa" focal="56.0" aperture="4.0" distance="1000" k1="-0.4801974" k2="0.4540767" k3="-0.4177425"/>
+            <vignetting model="pa" focal="56.0" aperture="5.6" distance="0.5" k1="-0.5092325" k2="0.0427672" k3="0.0198384"/>
+            <vignetting model="pa" focal="56.0" aperture="5.6" distance="1.0" k1="-0.4264325" k2="0.0174252" k3="0.0147301"/>
+            <vignetting model="pa" focal="56.0" aperture="5.6" distance="3.0" k1="-0.3997585" k2="0.0152437" k3="0.0103796"/>
+            <vignetting model="pa" focal="56.0" aperture="5.6" distance="1000" k1="-0.3831971" k2="0.0543898" k3="-0.0338622"/>
+            <vignetting model="pa" focal="56.0" aperture="8.0" distance="0.5" k1="-0.5069897" k2="0.0324196" k3="0.0282197"/>
+            <vignetting model="pa" focal="56.0" aperture="8.0" distance="1.0" k1="-0.4227668" k2="0.0085514" k3="0.0195588"/>
+            <vignetting model="pa" focal="56.0" aperture="8.0" distance="3.0" k1="-0.3969181" k2="0.0098946" k3="0.0120176"/>
+            <vignetting model="pa" focal="56.0" aperture="8.0" distance="1000" k1="-0.3673955" k2="0.0001789" k3="0.0089726"/>
+            <vignetting model="pa" focal="56.0" aperture="11.0" distance="0.5" k1="-0.5074353" k2="0.0356608" k3="0.0248106"/>
+            <vignetting model="pa" focal="56.0" aperture="11.0" distance="1.0" k1="-0.4266252" k2="0.0130895" k3="0.0178332"/>
+            <vignetting model="pa" focal="56.0" aperture="11.0" distance="3.0" k1="-0.3982989" k2="0.0071010" k3="0.0145134"/>
+            <vignetting model="pa" focal="56.0" aperture="11.0" distance="1000" k1="-0.3687077" k2="0.0044141" k3="0.0062580"/>
+            <vignetting model="pa" focal="56.0" aperture="16.0" distance="0.5" k1="-0.5111051" k2="0.0422885" k3="0.0216736"/>
+            <vignetting model="pa" focal="56.0" aperture="16.0" distance="1.0" k1="-0.4281609" k2="0.0140769" k3="0.0170270"/>
+            <vignetting model="pa" focal="56.0" aperture="16.0" distance="3.0" k1="-0.3994304" k2="0.0067149" k3="0.0158997"/>
+            <vignetting model="pa" focal="56.0" aperture="16.0" distance="1000" k1="-0.3633150" k2="-0.0160139" k3="0.0199640"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Sigma</maker>
+        <model>Sigma 60mm f/2.8 DN</model>
+        <mount>Sony E</mount>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2</cropfactor>
+        <aspect-ratio>4:3</aspect-ratio>
+        <calibration>
+            <!-- Taken with OMD E-M5 -->
+            <distortion model="poly3" focal="60" k1="0.00275"/>
+            <!-- No measurable TCA -->
+            <tca model="poly3" focal="60"/>
+        </calibration>
+    </lens>
+
+    <lens>
+        <!-- Identifies itself at Sony cameras as “E 60mm F2.8”. -->
+        <maker>Sigma</maker>
+        <model>Sigma 60mm f/2.8 DN</model>
+        <mount>Sony E</mount>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>1.534</cropfactor>
+        <calibration>
+            <!-- Taken with ILCE-6000 Alpha 6000 -->
+            <distortion model="ptlens" focal="60" a="-0.00009308" b="-0.000526315" c="0.0120559"/>
+            <tca model="poly3" focal="60" vr="0.9999531" vb="1.0000223"/>
+            <vignetting model="pa" focal="60" aperture="2.8" distance="10" k1="-0.6640" k2="0.3253" k3="-0.0355"/>
+            <vignetting model="pa" focal="60" aperture="2.8" distance="1000" k1="-0.6640" k2="0.3253" k3="-0.0355"/>
+            <vignetting model="pa" focal="60" aperture="3.2" distance="10" k1="-0.3209" k2="-0.2241" k3="0.2368"/>
+            <vignetting model="pa" focal="60" aperture="3.2" distance="1000" k1="-0.3209" k2="-0.2241" k3="0.2368"/>
+            <vignetting model="pa" focal="60" aperture="3.5" distance="10" k1="-0.1184" k2="-0.5010" k3="0.3303"/>
+            <vignetting model="pa" focal="60" aperture="3.5" distance="1000" k1="-0.1184" k2="-0.5010" k3="0.3303"/>
+            <vignetting model="pa" focal="60" aperture="4" distance="10" k1="-0.1262" k2="-0.2162" k3="0.1169"/>
+            <vignetting model="pa" focal="60" aperture="4" distance="1000" k1="-0.1262" k2="-0.2162" k3="0.1169"/>
+            <vignetting model="pa" focal="60" aperture="4.5" distance="10" k1="-0.2177" k2="0.2018" k3="-0.1577"/>
+            <vignetting model="pa" focal="60" aperture="4.5" distance="1000" k1="-0.2177" k2="0.2018" k3="-0.1577"/>
+            <vignetting model="pa" focal="60" aperture="5" distance="10" k1="-0.2179" k2="0.2126" k3="-0.2123"/>
+            <vignetting model="pa" focal="60" aperture="5" distance="1000" k1="-0.2179" k2="0.2126" k3="-0.2123"/>
+            <vignetting model="pa" focal="60" aperture="5.6" distance="10" k1="-0.2117" k2="0.1512" k3="-0.1221"/>
+            <vignetting model="pa" focal="60" aperture="5.6" distance="1000" k1="-0.2117" k2="0.1512" k3="-0.1221"/>
+            <vignetting model="pa" focal="60" aperture="6.3" distance="10" k1="-0.1922" k2="0.0544" k3="-0.0240"/>
+            <vignetting model="pa" focal="60" aperture="6.3" distance="1000" k1="-0.1922" k2="0.0544" k3="-0.0240"/>
+            <vignetting model="pa" focal="60" aperture="7.1" distance="10" k1="-0.2025" k2="0.0653" k3="-0.0249"/>
+            <vignetting model="pa" focal="60" aperture="7.1" distance="1000" k1="-0.2025" k2="0.0653" k3="-0.0249"/>
+            <vignetting model="pa" focal="60" aperture="8" distance="10" k1="-0.2134" k2="0.0830" k3="-0.0355"/>
+            <vignetting model="pa" focal="60" aperture="8" distance="1000" k1
