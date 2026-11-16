@@ -1,0 +1,434 @@
+<!DOCTYPE lensdatabase SYSTEM "lensfun-database.dtd">
+<lensdatabase version="2">
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot Pro1</model>
+        <model lang="en">PowerShot Pro1</model>
+        <mount>canonPro1</mount>
+        <cropfactor>3.933</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot Pro70</model>
+        <model lang="en">PowerShot Pro70</model>
+        <mount>canonPro70</mount>
+        <cropfactor>5.47</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G6</model>
+        <model lang="en">PowerShot G6</model>
+        <mount>canonG3</mount>
+        <cropfactor>4.843</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G5</model>
+        <model lang="en">PowerShot G5</model>
+        <mount>canonG3</mount>
+        <cropfactor>4.843</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G3</model>
+        <model lang="en">PowerShot G3</model>
+        <mount>canonG3</mount>
+        <cropfactor>4.843</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G2</model>
+        <model lang="en">PowerShot G2</model>
+        <mount>canonG2</mount>
+        <cropfactor>4.843</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G1</model>
+        <model lang="en">PowerShot G1</model>
+        <mount>canonG1</mount>
+        <cropfactor>4.843</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7</model>
+        <model lang="en">PowerShot G7</model>
+        <mount>canonG7</mount>
+        <cropfactor>4.843</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G3 X</model>
+        <model lang="en">PowerShot G3 X (3:2)</model>
+        <mount>canonG3X</mount>
+        <cropfactor>2.727</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G5 X</model>
+        <model lang="en">PowerShot G5 X (3:2)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.72</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G5 X 4:3</model>
+        <model lang="en">PowerShot G5 X (4:3)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.94</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G5 X 16:9</model>
+        <model lang="en">PowerShot G5 X (16:9)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.85</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X</model>
+        <model lang="en">PowerShot G7 X (3:2)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.72</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X 4:3</model>
+        <model lang="en">PowerShot G7 X (4:3)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.94</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X 16:9</model>
+        <model lang="en">PowerShot G7 X (16:9)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.85</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X Mark II</model>
+        <model lang="en">PowerShot G7 X Mark II (3:2)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.72</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X Mark II 4:3</model>
+        <model lang="en">PowerShot G7 X Mark II (4:3)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.94</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X Mark II 16:9</model>
+        <model lang="en">PowerShot G7 X Mark II (16:9)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.85</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G7 X Mark III</model>
+        <model lang="en">PowerShot G7 X Mark III (3:2)</model>
+        <mount>canonG7X</mount>
+        <cropfactor>2.72</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G9</model>
+        <model lang="en">PowerShot G9</model>
+        <mount>canonG9</mount>
+        <cropfactor>4.605</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G9 X</model>
+        <model lang="en">PowerShot G9 X</model>
+        <mount>canonG9X</mount>
+        <cropfactor>2.72</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G9 X Mark II</model>
+        <model lang="en">PowerShot G9 X Mark II</model>
+        <mount>canonG9X</mount>
+        <cropfactor>2.72</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G10</model>
+        <model lang="en">PowerShot G10</model>
+        <mount>canonG10</mount>
+        <cropfactor>4.605</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G11</model>
+        <model lang="en">PowerShot G11</model>
+        <mount>canonG11</mount>
+        <cropfactor>4.554</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G12</model>
+        <model lang="en">PowerShot G12</model>
+        <mount>canonG12</mount>
+        <cropfactor>4.63</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G1 X</model>
+        <model lang="en">PowerShot G1 X</model>
+        <mount>canonG1X</mount>
+        <cropfactor>1.85</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G1 X Mark II</model>
+        <model lang="en">PowerShot G1 X Mark II</model>
+        <mount>canonG1X2</mount>
+        <cropfactor>1.93</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G1 X Mark III</model>
+        <model lang="en">PowerShot G1 X Mark III</model>
+        <mount>canonG1X3</mount>
+        <cropfactor>1.613</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G5 X Mark II</model>
+        <model lang="en">PowerShot G5 X Mark II</model>
+        <mount>canonG5X2</mount>
+        <cropfactor>2.73</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G15</model>
+        <model lang="en">PowerShot G15</model>
+        <mount>canonG15</mount>
+        <cropfactor>4.65</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot G16</model>
+        <model lang="en">PowerShot G16</model>
+        <mount>canonG16</mount>
+        <cropfactor>4.67</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD550</model>
+        <model lang="en">PowerShot SD550</model>
+        <mount>canonSD500</mount>
+        <cropfactor>4.8</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD950 IS</model>
+        <model lang="en">PowerShot SD950 IS</model>
+        <mount>canonSD950</mount>
+        <cropfactor>4.7</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 750</model>
+        <model lang="en">IXUS 750</model>
+        <mount>canonSD500</mount>
+        <cropfactor>4.8</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>IXY Digital 700</model>
+        <mount>canonSD500</mount>
+        <cropfactor>4.8</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD500</model>
+        <model lang="en">PowerShot SD500</model>
+        <mount>canonSD500</mount>
+        <cropfactor>4.8</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 700</model>
+        <model lang="en">IXUS 700</model>
+        <mount>canonSD500</mount>
+        <cropfactor>4.8</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>IXY Digital 600</model>
+        <mount>canonSD500</mount>
+        <cropfactor>4.8</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD450</model>
+        <model lang="en">PowerShot SD450</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 55</model>
+        <model lang="en">IXUS 55</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD400</model>
+        <model lang="en">PowerShot SD400</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon IXY DIGITAL 55</model>
+        <model lang="en">IXY 55</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 50</model>
+        <model lang="en">IXUS 50</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 70</model>
+        <model lang="en">IXUS 70</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD300</model>
+        <model lang="en">PowerShot SD300</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon IXY DIGITAL 50</model>
+        <model lang="en">IXY 50</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 40</model>
+        <model lang="en">IXUS 40</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD200</model>
+        <model lang="en">PowerShot SD200</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon IXY DIGITAL 40</model>
+        <model lang="en">IXY 40</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS 30</model>
+        <model lang="en">IXUS 30</model>
+        <mount>canonSD200</mount>
+        <cropfactor>6.05</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot S200</model>
+        <model lang="en">PowerShot S200</model>
+        <mount>canonIxusII</mount>
+        <cropfactor>6.5</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon DIGITAL IXUS v2</model>
+        <model lang="en">IXUS v2</model>
+        <mount>canonIxusII</mount>
+        <cropfactor>6.5</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon IXY DIGITAL 200a</model>
+        <model lang="en">IXY 200a</model>
+        <mount>canonIxusII</mount>
+        <cropfactor>6.5</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Canon</maker>
+        <model>Canon PowerShot SD110</model>
+        <model lang="en">PowerShot SD110</model>
+        <mount>canonIxusII</mount>
+        <cropfactor>6.5</cropfactor>
+    </camera>
+
+    <c

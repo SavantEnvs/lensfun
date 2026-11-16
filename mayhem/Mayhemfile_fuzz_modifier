@@ -1,0 +1,10 @@
+project: savantenvs/lensfun
+target: fuzz_modifier
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_modifier/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_modifier
+    libfuzzer: true
+    timeout: 30
+
